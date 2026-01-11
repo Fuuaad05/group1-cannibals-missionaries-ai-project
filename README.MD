@@ -52,16 +52,17 @@ assets/               → Screenshots
 ```
 
 ### Group Members
+- Einstein Dokpesi
 - Fouad Abdulhakeem
-- I
-- J
-- E
-- OJ
-- KJ
-- JK
-- IKJ
-- AW
-- JJ
-- JS
-- FR
+- Onogbeye Joseph
+- Hassan Khalil
+- Oyiborhoro Samuel
+- Jad Chouaib
+- Okopido Imeh
+- Okechukwu Joshua
+- Abdulaziz Abubakar Sayyadi
+- Oladipupo Benedict
+- Michael Afegbua
+- Metu Lotana
+
 
